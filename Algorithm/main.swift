@@ -9,7 +9,7 @@
 
 import Foundation
 
-print(solution(20))
+print(solution([1,2,3,4,5]))
 
 
 
