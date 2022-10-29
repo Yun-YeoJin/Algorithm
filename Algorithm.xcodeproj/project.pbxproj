@@ -13,6 +13,7 @@
 		AE02E454290AE33200CCAE15 /* 약수의 합.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE02E453290AE33200CCAE15 /* 약수의 합.swift */; };
 		AE02E466290D672C00CCAE15 /* 자릿수 더하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE02E465290D672C00CCAE15 /* 자릿수 더하기.swift */; };
 		AE02E468290D6A4D00CCAE15 /* 자연수 뒤집어 배열 만들기.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE02E467290D6A4D00CCAE15 /* 자연수 뒤집어 배열 만들기.swift */; };
+		AE02E46A290D6D4800CCAE15 /* 정수 제곱근 판별.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE02E469290D6D4800CCAE15 /* 정수 제곱근 판별.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		AE02E453290AE33200CCAE15 /* 약수의 합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "약수의 합.swift"; sourceTree = "<group>"; };
 		AE02E465290D672C00CCAE15 /* 자릿수 더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "자릿수 더하기.swift"; sourceTree = "<group>"; };
 		AE02E467290D6A4D00CCAE15 /* 자연수 뒤집어 배열 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "자연수 뒤집어 배열 만들기.swift"; sourceTree = "<group>"; };
+		AE02E469290D6D4800CCAE15 /* 정수 제곱근 판별.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "정수 제곱근 판별.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				AE02E453290AE33200CCAE15 /* 약수의 합.swift */,
 				AE02E465290D672C00CCAE15 /* 자릿수 더하기.swift */,
 				AE02E467290D6A4D00CCAE15 /* 자연수 뒤집어 배열 만들기.swift */,
+				AE02E469290D6D4800CCAE15 /* 정수 제곱근 판별.swift */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				AE02E450290AE04C00CCAE15 /* 짝수와 홀수.swift in Sources */,
 				AE02E454290AE33200CCAE15 /* 약수의 합.swift in Sources */,
 				AE02E468290D6A4D00CCAE15 /* 자연수 뒤집어 배열 만들기.swift in Sources */,
+				AE02E46A290D6D4800CCAE15 /* 정수 제곱근 판별.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
