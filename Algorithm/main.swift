@@ -9,7 +9,7 @@
 
 import Foundation
 
-print(solution4(25))
+print(solution5("PpyY"))
 
 
 
