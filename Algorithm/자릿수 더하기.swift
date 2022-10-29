@@ -25,7 +25,8 @@ func solution2(_ n: Int) -> Int {
         return answer
 }
 
-
-// compactMap : map을 사용했을때는 옵셔널이지만 compactMap을 사용하면 옵셔널 바인딩의 기능을
-//             가지고 있어 map의 원래기능 + 옵셔널 제거까지 가능
-
+/*
+Keyword :
+1. 고차함수 map 을 이용한 값 담기
+2. compactMap : map 원래 기능 + 옵셔널 제거까지 가능
+*/

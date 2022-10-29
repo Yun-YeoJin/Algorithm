@@ -25,17 +25,11 @@ func solution(_ arr: [Int]) -> Double {
     
     let sum = arr.reduce(0, { $0 + $1 })
     return Double(sum) / Double(arr.count)
-    
-    /*
-     
-     var sum = 0
-     
-     for i in arr {
-        sum += i
-     }
-     return Double(sum) /Double(arr.count)
-     
-     */
-    
+
 }
+
+/*
+Keyword :
+1. 고차함수 reduce를 이용한 평균 구하기
+*/
 
